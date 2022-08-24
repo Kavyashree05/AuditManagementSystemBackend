@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchmarkServiceTests\\AuditBenchmarkServiceTests.csproj": {}
+    "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchmarkServiceTests\\AuditBenchmarkServiceTests.csproj": {}
   },
   "projects": {
-    "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchmarkServiceTests\\AuditBenchmarkServiceTests.csproj": {
+    "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchmarkServiceTests\\AuditBenchmarkServiceTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchmarkServiceTests\\AuditBenchmarkServiceTests.csproj",
+        "projectUniqueName": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchmarkServiceTests\\AuditBenchmarkServiceTests.csproj",
         "projectName": "AuditBenchmarkServiceTests",
-        "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchmarkServiceTests\\AuditBenchmarkServiceTests.csproj",
+        "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchmarkServiceTests\\AuditBenchmarkServiceTests.csproj",
         "packagesPath": "C:\\Users\\916009\\.nuget\\packages\\",
-        "outputPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchmarkServiceTests\\obj\\",
+        "outputPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchmarkServiceTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\AuditBenchmarkService.csproj": {
-                "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\AuditBenchmarkService.csproj"
+              "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\AuditBenchmarkService.csproj": {
+                "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\AuditBenchmarkService.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\AuditBenchmarkService.csproj": {
+    "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\AuditBenchmarkService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\AuditBenchmarkService.csproj",
+        "projectUniqueName": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\AuditBenchmarkService.csproj",
         "projectName": "AuditBenchmarkService",
-        "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\AuditBenchmarkService.csproj",
+        "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\AuditBenchmarkService.csproj",
         "packagesPath": "C:\\Users\\916009\\.nuget\\packages\\",
-        "outputPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\obj\\",
+        "outputPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditBenchMarkService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

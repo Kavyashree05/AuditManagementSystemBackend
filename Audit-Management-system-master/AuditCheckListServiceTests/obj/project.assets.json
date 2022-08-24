@@ -6132,11 +6132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditCheckListServiceTests\\AuditCheckListServiceTests.csproj",
+      "projectUniqueName": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditCheckListServiceTests\\AuditCheckListServiceTests.csproj",
       "projectName": "AuditCheckListServiceTests",
-      "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditCheckListServiceTests\\AuditCheckListServiceTests.csproj",
+      "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditCheckListServiceTests\\AuditCheckListServiceTests.csproj",
       "packagesPath": "C:\\Users\\916009\\.nuget\\packages\\",
-      "outputPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditCheckListServiceTests\\obj\\",
+      "outputPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditCheckListServiceTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6156,8 +6156,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditCheckListService\\AuditCheckListService.csproj": {
-              "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditCheckListService\\AuditCheckListService.csproj"
+            "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditCheckListService\\AuditCheckListService.csproj": {
+              "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditCheckListService\\AuditCheckListService.csproj"
             }
           }
         }

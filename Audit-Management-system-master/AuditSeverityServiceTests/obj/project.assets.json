@@ -7736,11 +7736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditSeverityServiceTests\\AuditSeverityServiceTests.csproj",
+      "projectUniqueName": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditSeverityServiceTests\\AuditSeverityServiceTests.csproj",
       "projectName": "AuditSeverityServiceTests",
-      "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditSeverityServiceTests\\AuditSeverityServiceTests.csproj",
+      "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditSeverityServiceTests\\AuditSeverityServiceTests.csproj",
       "packagesPath": "C:\\Users\\916009\\.nuget\\packages\\",
-      "outputPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditSeverityServiceTests\\obj\\",
+      "outputPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditSeverityServiceTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7760,8 +7760,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditSeverityService\\AuditSeverityService.csproj": {
-              "projectPath": "C:\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditSeverityService\\AuditSeverityService.csproj"
+            "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditSeverityService\\AuditSeverityService.csproj": {
+              "projectPath": "C:\\AMS\\AuditManagementSystem\\Audit-Management-System\\Audit-Management-System_backend\\Audit-Management-system-master\\AuditSeverityService\\AuditSeverityService.csproj"
             }
           }
         }
